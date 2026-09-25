@@ -29,6 +29,3 @@ console.log(lengthOne);   // Output: 15
 console.log(lengthTwo);   // Output: 10
 console.log(lengthThree); // Output: 0
 
-
-
-
